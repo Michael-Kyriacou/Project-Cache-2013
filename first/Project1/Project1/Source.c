@@ -148,8 +148,11 @@ tag = bitsRam - index - bo;
 printf("the tag is %d bits \n",tag);
 printf("the index is %d bits \n",index);
 
-flusho = ((times*size) / flush); //ypologismos gia to kathe poses fores iparxi periptosi na epilegi to flush
-	
+if(flush!=0)
+	flusho = ((times*size) / flush); //ypologismos gia to kathe poses fores iparxi periptosi na epilegi to flush
+else 
+	flusho = flush;
+
 if(words>1)
 	printf("the block offset %d bits \n",bo);
 
