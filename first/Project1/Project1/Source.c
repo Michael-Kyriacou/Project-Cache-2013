@@ -20,6 +20,7 @@ struct block{
 	int lru_number; //used for the lru
 	int way ;//se periptosi n-way cache na apothikeute o arithmos tu node se pio way aniki
 	int address;
+	int dirty_bit; // 0 is ok 1 for dirty
 	struct block *next;
 };
 
