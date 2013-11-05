@@ -1,0 +1,14 @@
+memory, 32
+cache, 16
+refer, 2
+flush, 0
+words, 2
+choice(1:direct mapped 2:N-Way 3:Full Assiociative), 1
+number of ways, 2
+choice of algorith(1:fifo 2: lru 3: random), 3
+(1:write back 0:write through), 1
+(1:write allocate 0:write non allocate), 0
+read from cache cycles, 2
+read from ram cycles, 3
+write to cache cycles, 4 
+write to ram cycles, 5

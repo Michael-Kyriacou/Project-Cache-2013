@@ -1,10 +1,15 @@
-﻿Build started 10/15/2013 6:41:48 PM.
+﻿Build started 11/5/2013 3:23:44 PM.
      1>Project "C:\Users\Michael\Documents\Cache_Project\first\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
          Source.c
-     1>c:\users\michael\documents\cache_project\first\project1\project1\mystruct.h(14): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>c:\users\michael\documents\cache_project\first\project1\project1\mystruct.h(22): warning C4101: 'g' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(38): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(54): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(69): warning C4101: 'g' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(63): warning C4101: 'z' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(354): warning C4101: 'p' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(313): warning C4101: 'cpNum' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(33): warning C4715: 'check_for_max' : not all control paths return a value
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Source.obj
          Project1.vcxproj -> C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.exe
@@ -12,4 +17,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.84
+Time Elapsed 00:00:00.71
