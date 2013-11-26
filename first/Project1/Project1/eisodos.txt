@@ -1,14 +1,23 @@
-memory, 32
-cache, 16
-refer, 2
-flush, 0
+memory size, 64
+cache size, 16
+cache level 2 size, 32
+cache level 2 (1:Exclusive 0:Inclusive), 0
+cache level 2 (1:enable 0:disable), 1
+victim cache (1:enable 0:disable), 0
+victim cache size, 100
+refer, 6
+flush, 4
 words, 2
 choice(1:direct mapped 2:N-Way 3:Full Assiociative), 1
 number of ways, 2
-choice of algorith(1:fifo 2: lru 3: random), 3
+choice of algorith(1:fifo 2: lru 3: random), 1
 (1:write back 0:write through), 1
 (1:write allocate 0:write non allocate), 0
 read from cache cycles, 2
-read from ram cycles, 3
+read from ram cycles, 10
 write to cache cycles, 4 
-write to ram cycles, 5
+write to ram cycles, 12
+read from cache level 2, 4
+read from victim cache, 6
+write to cache level 2, 4
+write to victim cache, 6

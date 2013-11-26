@@ -1,14 +1,20 @@
-﻿Build started 11/5/2013 3:34:21 PM.
+﻿Build started 11/26/2013 4:20:58 PM.
      1>Project "C:\Users\Michael\Documents\Cache_Project\first\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
          Source.c
      1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(39): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
      1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(55): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(70): warning C4101: 'g' : unreferenced local variable
-     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(64): warning C4101: 'z' : unreferenced local variable
-     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(355): warning C4101: 'p' : unreferenced local variable
-     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(314): warning C4101: 'cpNum' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(69): warning C4101: 'g' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(63): warning C4101: 'z' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(303): warning C4101: 'g' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(298): warning C4101: 'z' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(307): warning C4101: 'numRan' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(562): warning C4101: 'p' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(521): warning C4101: 'cpNum' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(487): warning C4101: 'check_word' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(494): warning C4101: 'lastL2' : unreferenced local variable
+     1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(498): warning C4101: 'iterator5' : unreferenced local variable
      1>c:\users\michael\documents\cache_project\first\project1\project1\source.c(34): warning C4715: 'check_for_max' : not all control paths return a value
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Michael\Documents\Cache_Project\first\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Source.obj
@@ -17,4 +23,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.01
+Time Elapsed 00:00:00.54

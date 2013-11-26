@@ -1,0 +1,312 @@
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at read 3  cycles: 4 
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 9  cycles: 4 
+He wants to write  to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 7  Miss at L2 write 7 
+He wants to read   to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Hit at read 9  cycles: 4 
+He wants to write  to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 5  Miss at L2 write 5 
+He wants to write  to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 2  Miss at L2 write 2 
+He wants to read   to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 8  Miss at L2 read 8 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 12  Miss at L2 write 12 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 0  Miss at L2 read 0 
+He wants to modify to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 8  cycles: 12  miss to modify the word at level 2 cache at 8  cycles: 16 
+He wants to modify to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 3  cycles: 12  miss to modify the word at level 2 cache at 3  cycles: 16 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Hit at read 0  cycles: 4 
+He wants to write  to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 Hit at write 2  cycles: 4 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Miss at write 3  cycles: 4 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 hit to modify the word at level 1 cache at 2  cycles: 2 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 9  Miss at L2 write 9 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 14  Miss at L2 read 14 
+He wants to write  to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 4  Miss at L2 write 4 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Hit at read 14  cycles: 4 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 1  cycles: 12  miss to modify the word at level 2 cache at 1  cycles: 16 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 11  Miss at L2 read 11 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Miss at write 6  cycles: 4 
+------------------------>He wants to flush  the cache<------------------------
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss at read 13  cycles: 4 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 2  cycles: 12  miss to modify the word at level 2 cache at 2  cycles: 16 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at read 10  cycles: 4 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Miss at write 12  cycles: 4 
+He wants to modify to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 hit to modify the word at level 1 cache at 13  cycles: 2 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Hit at read 10  cycles: 4 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 13  Miss at L2 read 13 
+He wants to write  to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 2  Miss at L2 write 2 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Hit at read 13  cycles: 4 
+He wants to read   to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 8  Miss at L2 read 8 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 10  Miss at L2 read 10 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to write  to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 14  Miss at L2 write 14 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 2  cycles: 12  miss to modify the word at level 2 cache at 2  cycles: 16 
+He wants to modify to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 3  cycles: 12  miss to modify the word at level 2 cache at 3  cycles: 16 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to read   to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 6  Miss at L2 read 6 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Hit at L2 write 0  cycles: 4 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 2  cycles: 12  miss to modify the word at level 2 cache at 2  cycles: 16 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  hit to modify the word at level 2 cache at 0  cycles: 6 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 3  Miss at L2 read 3 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 11  Miss at L2 read 11 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to write  to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 1 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 2  cycles: 12  miss to modify the word at level 2 cache at 2  cycles: 16 
+------------------------>He wants to flush  the cache<------------------------
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  miss to modify the word at level 2 cache at 0  cycles: 16 
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Compulsory miss at write 10  cycles: 4 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 13  cycles: 4 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 14  Miss at L2 read 14 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Hit at read 13  cycles: 4 
+He wants to read   to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 15  Miss at L2 read 15 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to read   to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 9  Miss at L2 read 9 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 3  Miss at L2 write 3 
+He wants to modify to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 8  cycles: 12  miss to modify the word at level 2 cache at 8  cycles: 16 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Hit at read 3  cycles: 4 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Miss at L2 write 13 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  hit to modify the word at level 2 cache at 0  cycles: 6 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 hit to modify the word at level 1 cache at 7  cycles: 2 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 5  cycles: 4 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at read 11  cycles: 4 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to modify to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 hit to modify the word at level 1 cache at 5  cycles: 2 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to write  to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 8  Miss at L2 write 8 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to read   to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 2  Miss at L2 read 2 
+
+hit level 1 cache -> 12
+hit level 2 cache -> 3
+ hit overal -> 15 out of 96 references -> 15.63
+ 
+ Miss -> 81  out of 96 references -> 84.38
+ And Total Cycles: 1128
+ Write Back  and non write allocate
+He wants to modify to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 5  cycles: 12  miss to modify the word at level 2 cache at 5  cycles: 16 
+He wants to read   to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss at read 4  cycles: 4 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at read 7  cycles: 4 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 hit to modify the word at level 1 cache at 4  cycles: 2 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Miss at L2 write 13 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Hit at L2 write 13  cycles: 4 
+He wants to read   to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 8  Miss at L2 read 8 
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 10  Miss at L2 write 10 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 0  Miss at L2 read 0 
+He wants to read   to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 2  Miss at L2 read 2 
+He wants to read   to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 9  Miss at L2 read 9 
+He wants to write  to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 15  Miss at L2 write 15 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Hit at L2 write 13  cycles: 4 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to write  to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 15  Miss at L2 write 15 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Miss at read 14  cycles: 4 
+He wants to modify to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 3  cycles: 12  miss to modify the word at level 2 cache at 3  cycles: 16 
+He wants to modify to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 13  cycles: 12  hit to modify the word at level 2 cache at 13  cycles: 6 
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 6  Miss at L2 write 6 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to write  to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 14  Miss at L2 write 14 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 1  cycles: 4 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 12  Miss at L2 write 12 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at read 3  cycles: 4 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Hit at read 0  cycles: 4 
+He wants to read   to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 6  Miss at L2 read 6 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to read   to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 15  Miss at L2 read 15 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Miss at read 14  cycles: 4 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 4  cycles: 12  miss to modify the word at level 2 cache at 4  cycles: 16 
+He wants to write  to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Hit at write 15  cycles: 4 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 12  Hit at L2 write 12  cycles: 4 
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 10  Miss at L2 write 10 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 3  Miss at L2 read 3 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Hit at L2 read 7  cycles: 4 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 hit to modify the word at level 1 cache at 1  cycles: 2 
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 4  cycles: 12  miss to modify the word at level 2 cache at 4  cycles: 16 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 hit to modify the word at level 1 cache at 1  cycles: 2 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Compulsory miss at write 6  cycles: 4 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 10  Miss at L2 read 10 
+He wants to write  to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 Compulsory miss at write 8  cycles: 4 
+He wants to modify to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 5  cycles: 12  miss to modify the word at level 2 cache at 5  cycles: 16 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 1  cycles: 12  miss to modify the word at level 2 cache at 1  cycles: 16 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 Miss at read 11  cycles: 4 
+He wants to write  to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 Hit at write 11  cycles: 4 
+He wants to modify to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 hit to modify the word at level 1 cache at 8  cycles: 2 
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 0  Miss at L2 write 0 
+He wants to write  to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 Miss at write 1  cycles: 4 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Hit at read 5  cycles: 4 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 13  Miss at L2 read 13 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  hit to modify the word at level 2 cache at 0  cycles: 6 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 4  cycles: 12  miss to modify the word at level 2 cache at 4  cycles: 16 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 3  Miss at L2 write 3 
+He wants to write  to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 5  Miss at L2 write 5 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 3  Hit at L2 read 3  cycles: 4 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 1  cycles: 12  miss to modify the word at level 2 cache at 1  cycles: 16 
+He wants to write  to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Miss at write 4  cycles: 4 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 10  Miss at L2 read 10 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  hit to modify the word at level 2 cache at 0  cycles: 6 
+He wants to modify to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 15  cycles: 12  miss to modify the word at level 2 cache at 15  cycles: 16 
+He wants to read   to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 6 
+------------------------>He wants to flush  the cache<------------------------
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at read 10  cycles: 4 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss at read 0  cycles: 4 
+He wants to write  to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 8  Miss at L2 write 8 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 3  Miss at L2 read 3 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Miss at write 9  cycles: 4 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Hit at write 3  cycles: 4 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Miss at L2 write 13 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Hit at write 3  cycles: 4 
+He wants to write  to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 14  Miss at L2 write 14 
+He wants to write  to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 8  Hit at L2 write 8  cycles: 4 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 9  Hit at L2 write 9  cycles: 4 
+He wants to modify to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 11  cycles: 12  miss to modify the word at level 2 cache at 11  cycles: 16 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 9  Hit at L2 write 9  cycles: 4 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 9  Hit at L2 write 9  cycles: 4 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Miss at write 12  cycles: 4 
+
+hit level 1 cache -> 10
+hit level 2 cache -> 12
+ hit overal -> 22 out of 96 references -> 22.92
+ 
+ Miss -> 74  out of 96 references -> 77.08
+ And Total Cycles: 1014
+ Write Back  and non write allocate
+He wants to read   to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss at read 15  cycles: 4 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 13  cycles: 4 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to write  to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Miss at write 14  cycles: 4 
+He wants to read   to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Miss at read 12  cycles: 4 
+He wants to write  to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 4  Miss at L2 write 4 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 13  Miss at L2 read 13 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Hit at read 14  cycles: 4 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 hit to modify the word at level 1 cache at 14  cycles: 2 
+He wants to read   to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 0  Miss at L2 read 0 
+He wants to modify to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 5  cycles: 12  miss to modify the word at level 2 cache at 5  cycles: 16 
+He wants to read   to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 3  Miss at L2 read 3 
+He wants to read   to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 15  Miss at L2 read 15 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 10  Miss at L2 read 10 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 hit to modify the word at level 1 cache at 10  cycles: 2 
+He wants to write  to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 14 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to read   to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 14 
+He wants to modify to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 8  cycles: 12  miss to modify the word at level 2 cache at 8  cycles: 16 
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 6  Miss at L2 write 6 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 3  Miss at L2 write 3 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to write  to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 9  Miss at L2 write 9 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  hit to modify the word at level 2 cache at 6  cycles: 6 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Compulsory miss at write 10  cycles: 4 
+He wants to modify to  cache : 1001 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 9  cycles: 12  miss to modify the word at level 2 cache at 9  cycles: 16 
+He wants to modify to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 7  cycles: 12  miss to modify the word at level 2 cache at 7  cycles: 16 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Hit at read 10  cycles: 4 
+He wants to modify to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 8  cycles: 12  miss to modify the word at level 2 cache at 8  cycles: 16 
+He wants to modify to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 13  cycles: 12  miss to modify the word at level 2 cache at 13  cycles: 16 
+He wants to modify to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 12  cycles: 12  miss to modify the word at level 2 cache at 12  cycles: 16 
+He wants to modify to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 6  cycles: 12  miss to modify the word at level 2 cache at 6  cycles: 16 
+He wants to write  to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Compulsory miss at write 4  cycles: 4 
+He wants to read   to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 2  Miss at L2 read 2 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Miss at L2 write 13 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 5  Miss at L2 read 5 
+He wants to write  to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 11  Miss at L2 write 11 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 Hit at read 7  cycles: 4 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 11  Hit at L2 read 11  cycles: 4 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 10 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  miss to modify the word at level 2 cache at 0  cycles: 16 
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 10 
+He wants to modify to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 11  cycles: 12  hit to modify the word at level 2 cache at 11  cycles: 6 
+He wants to read   to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Hit at read 4  cycles: 4 
+He wants to write  to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 Hit at write 4  cycles: 4 
+He wants to modify to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss to modify the word at level 1 cache at 11  cycles: 12  hit to modify the word at level 2 cache at 11  cycles: 6 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Compulsory miss at write 15  cycles: 4 
+He wants to read   to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Hit at read 15  cycles: 4 
+He wants to write  to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 2  Miss at L2 write 2 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 Hit at read 7  cycles: 4 
+He wants to write  to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 Compulsory miss at write 1  cycles: 4 
+He wants to read   to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 12  Miss at L2 read 12 
+He wants to write  to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 2  Hit at L2 write 2  cycles: 4 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 10  cycles: 12  miss to modify the word at level 2 cache at 10  cycles: 16 
+He wants to read   to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Hit at read 12  cycles: 4 
+He wants to write  to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 10  Miss at L2 write 10 
+He wants to read   to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 miss at L1 read 6 
+He wants to read   to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 Hit at read 10  cycles: 4 
+He wants to modify to  cache : 1010 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 0 0 hit to modify the word at level 1 cache at 10  cycles: 2 
+He wants to write  to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 1  Miss at L2 write 1 
+He wants to modify to  cache : 1110 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 14  cycles: 12  miss to modify the word at level 2 cache at 14  cycles: 16 
+He wants to write  to  cache : 1111 Tag Bits: 11 3 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 15  Miss at L2 write 15 
+He wants to write  to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 5  Miss at L2 write 5 
+He wants to read   to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 8  Miss at L2 read 8 
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Conflict miss at L1 write 6  Miss at L2 write 6 
+He wants to modify to  cache : 0010 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 0 0 miss to modify the word at level 1 cache at 2  cycles: 12  miss to modify the word at level 2 cache at 2  cycles: 16 
+He wants to write  to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 Conflict miss at L1 write 13  Miss at L2 write 13 
+He wants to modify to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 hit to modify the word at level 1 cache at 13  cycles: 2 
+He wants to read   to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 1  Miss at L2 read 1 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 3  Miss at L2 write 3 
+------------------------>He wants to flush  the cache<------------------------
+He wants to write  to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 Compulsory miss at write 0  cycles: 4 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Compulsory miss at write 3  cycles: 4 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 4  cycles: 12  miss to modify the word at level 2 cache at 4  cycles: 16 
+He wants to read   to  cache : 0111 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 7  Miss at L2 read 7 
+He wants to write  to  cache : 0110 Tag Bits: 01 1 Index Bits: 1 1 Block Bits: 0 0 Miss at write 6  cycles: 4 
+He wants to write  to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 8  Miss at L2 write 8 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 11  Miss at L2 read 11 
+He wants to write  to  cache : 1100 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 0 0 Conflict miss at L1 write 12  Miss at L2 write 12 
+He wants to read   to  cache : 1000 Tag Bits: 10 2 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 8  Hit at L2 read 8  cycles: 4 
+He wants to modify to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 hit to modify the word at level 1 cache at 11  cycles: 2 
+He wants to read   to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss at L1 read 4  Miss at L2 read 4 
+He wants to read   to  cache : 0101 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 1 1 Miss at read 5  cycles: 4 
+He wants to modify to  cache : 0001 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 1 1 miss to modify the word at level 1 cache at 1  cycles: 12  miss to modify the word at level 2 cache at 1  cycles: 16 
+He wants to modify to  cache : 0000 Tag Bits: 00 0 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 0  cycles: 12  miss to modify the word at level 2 cache at 0  cycles: 16 
+He wants to read   to  cache : 1101 Tag Bits: 11 3 Index Bits: 0 0 Block Bits: 1 1 miss at L1 read 13  Miss at L2 read 13 
+He wants to modify to  cache : 0100 Tag Bits: 01 1 Index Bits: 0 0 Block Bits: 0 0 miss to modify the word at level 1 cache at 4  cycles: 12  miss to modify the word at level 2 cache at 4  cycles: 16 
+He wants to write  to  cache : 0011 Tag Bits: 00 0 Index Bits: 1 1 Block Bits: 1 1 Conflict miss at L1 write 3  Miss at L2 write 3 
+He wants to read   to  cache : 1011 Tag Bits: 10 2 Index Bits: 1 1 Block Bits: 1 1 miss at L1 read 11  Miss at L2 read 11 
+
+hit level 1 cache -> 14
+hit level 2 cache -> 6
+ hit overal -> 20 out of 96 references -> 20.83
+ 
+ Miss -> 76  out of 96 references -> 79.17
+ And Total Cycles: 904
+ Write Back  and non write allocate
